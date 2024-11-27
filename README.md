@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
 - 💼 **Looking to Collaborate On**: Innovative projects in web development, mobile apps, and backend systems. I am especially interested in projects involving Kotlin, PHP, and JavaScript.
 - 📫 **How to Reach Me**:  
   Email: [erickariukiwairimu@gmail.com](mailto:erickariukiwairimu@gmail.com)  
-  LinkedIn: [Eric Kariuki Wairimu](www.linkedin.com/in/eric-kariuki-wairimu-4507a2227)  
+  LinkedIn: [Eric Kariuki Wairimu](https://www.linkedin.com/in/eric-kariuki-wairimu-4507a2227)  
   <!---Portfolio: [My Portfolio](https://your-portfolio-link.com) *(if applicable)*--->
 
 ---
